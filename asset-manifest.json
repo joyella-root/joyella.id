@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.07e9032a.js",
-    "static/js/787.0816b755.chunk.js": "/static/js/787.0816b755.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.07e9032a.js.map": "/static/js/main.07e9032a.js.map",
-    "787.0816b755.chunk.js.map": "/static/js/787.0816b755.chunk.js.map"
+    "main.css": "/joyella.id/static/css/main.073c9b0a.css",
+    "main.js": "/joyella.id/static/js/main.e7f6e523.js",
+    "static/js/787.0816b755.chunk.js": "/joyella.id/static/js/787.0816b755.chunk.js",
+    "index.html": "/joyella.id/index.html",
+    "main.073c9b0a.css.map": "/joyella.id/static/css/main.073c9b0a.css.map",
+    "main.e7f6e523.js.map": "/joyella.id/static/js/main.e7f6e523.js.map",
+    "787.0816b755.chunk.js.map": "/joyella.id/static/js/787.0816b755.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.07e9032a.js"
+    "static/js/main.e7f6e523.js"
   ]
 }
