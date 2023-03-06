@@ -3,10 +3,8 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  useEffect(() => {
-    window.location.href = "https://einvite.joyella.id";
-  }, []);
-  return null;
+  window.location.href = "https://einvite.joyella.id";
+  return <div>dummy page</div>;
 }
 
 export default App;
