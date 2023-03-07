@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   window.location.href = "https://einvite.joyella.id";
-  return <div>dummy page</div>;
+  return null;
 }
 
 export default App;
